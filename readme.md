@@ -4,4 +4,4 @@
 * Indexing: keep it efficient to traverse
 * Concurrency: handle lots of transactions
 
-Use B-trees
+I will probably use B-trees for indexing
