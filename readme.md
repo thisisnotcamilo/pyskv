@@ -6,4 +6,4 @@
 
 I will probably use B-trees for indexing
 
-1. Continue: [Build your own Database](https://build-your-own.org/database/04_btree_intro)
+1. Continue: [Build your own Database](https://build-your-own.org/database/)
